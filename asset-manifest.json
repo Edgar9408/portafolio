@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portafolio/static/css/main.017e415f.chunk.css",
-    "main.js": "/portafolio/static/js/main.5aca5311.chunk.js",
-    "main.js.map": "/portafolio/static/js/main.5aca5311.chunk.js.map",
+    "main.js": "/portafolio/static/js/main.040c07a0.chunk.js",
+    "main.js.map": "/portafolio/static/js/main.040c07a0.chunk.js.map",
     "runtime-main.js": "/portafolio/static/js/runtime-main.6867a196.js",
     "runtime-main.js.map": "/portafolio/static/js/runtime-main.6867a196.js.map",
     "static/js/2.81fd669e.chunk.js": "/portafolio/static/js/2.81fd669e.chunk.js",
@@ -14,15 +14,16 @@
     "static/js/2.81fd669e.chunk.js.LICENSE.txt": "/portafolio/static/js/2.81fd669e.chunk.js.LICENSE.txt",
     "static/media/Avatar.4e1ef5a5.png": "/portafolio/static/media/Avatar.4e1ef5a5.png",
     "static/media/Avatar2.94dcf058.png": "/portafolio/static/media/Avatar2.94dcf058.png",
-    "static/media/CV EDGAR PALMA.5872c664.pdf": "/portafolio/static/media/CV EDGAR PALMA.5872c664.pdf",
+    "static/media/CV EDGAR PALMA.6ca99889.pdf": "/portafolio/static/media/CV EDGAR PALMA.6ca99889.pdf",
     "static/media/App.css": "/portafolio/static/media/Fondo.0ade73d4.gif",
     "static/media/index.css": "/portafolio/static/media/Rasputin.0f23f021.otf",
-    "static/media/Scrum.78db9e74.png": "/portafolio/static/media/Scrum.78db9e74.png"
+    "static/media/Scrum.78db9e74.png": "/portafolio/static/media/Scrum.78db9e74.png",
+    "static/media/graphql.03ec8e20.png": "/portafolio/static/media/graphql.03ec8e20.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6867a196.js",
     "static/js/2.81fd669e.chunk.js",
     "static/css/main.017e415f.chunk.css",
-    "static/js/main.5aca5311.chunk.js"
+    "static/js/main.040c07a0.chunk.js"
   ]
 }
