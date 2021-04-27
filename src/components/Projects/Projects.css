@@ -1,0 +1,20 @@
+.p-description{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.projects-d{
+    flex-direction: row;
+}
+
+.h-project-modal{
+    font-family: "FuenteOP";
+    font-size: 3rem;
+    width: 100%;
+}
+
+.img-project{
+    width: 95%;
+    height: 80%;
+    margin-bottom: 5%;
+}

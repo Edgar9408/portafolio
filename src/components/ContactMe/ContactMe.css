@@ -1,0 +1,61 @@
+.Contact{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 80%;
+}
+.Contact h1{
+    font-size: 60px;
+    font-family: "FuenteOP";
+    color: #5e2129;
+}
+.Contact-t{
+    text-align: left;
+}
+.Contact-texto{
+    font-family: "Textos";
+}
+.Contact-f{
+    position: relative;
+}
+.Int{
+    align-content: space-around !important;
+}
+.Contact-f form{
+    display: flex;
+    flex-direction: column;
+}
+.Contact-cont{
+    display: flex;
+    align-content: space-around;
+    justify-content: space-around;
+    font-size: 25px;
+    height: 80%;
+}
+.Form-1{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.name, .email{
+    width: 50%;
+}
+.message{
+    margin-bottom: 10px;
+}
+h2{
+    font-size: 50px;
+    font-family: "FuenteOP";
+}
+.LinkeidIn{
+    color: #0e76a8;
+}
+.GitHub{
+    color: black;
+}
+.WhatsApp{
+    color: #00bb2d;
+}
+.contact-icons{
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,135 @@
+.containerStart{
+    width: 100%;
+    position: relative;
+    height: 89vh;
+}
+.avatar{
+    position: absolute;
+    top:30%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+    max-width: 50%;
+    text-align: center;
+    width: 240px;
+    animation-name: avatarAnimation;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+.avatar1{
+    width: 240px;
+}
+.texto{
+  font-family: "FuenteOP";
+}
+@keyframes avatarAnimation{
+    0%{
+        transform: scale(0.1);
+    }
+    100%{
+        transform: translateX(310px) scale(1.3);
+    }
+}
+.Nombre{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    max-width: 50%;
+    text-align: center;
+    color: black;
+    font-size: 200%;
+    animation-name: NombreAnimation;
+    animation-duration: 2s;
+    animation-delay: 0.25s;
+    animation-fill-mode: forwards;
+    visibility: hidden;
+}
+@keyframes NombreAnimation{
+    0%{
+        transform: scale(0.1);
+        visibility:visible;
+    }
+    100%{
+        transform: scale(1) translate(-350px, -60px);
+        visibility:visible;
+    }
+}
+.Edgar{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    max-width: 50%;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 300%;
+    margin-bottom: 50px;
+    animation-name: EdgarAnimation;
+    animation-duration: 2s;
+    animation-delay: 0.5s;
+    animation-fill-mode: forwards;
+    visibility: hidden;
+}
+@keyframes EdgarAnimation{
+    0%{
+        transform: scale(0.1);
+        visibility:visible;
+    }
+    100%{
+        transform: scale(1) translate(-350px, -20px);
+        visibility:visible;
+    }
+}
+.Soy{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    max-width: 50%;
+    text-align: center;
+    color: black;
+    font-size: 200%;
+    margin-top: 25px;
+    animation-name: SoyAnimation;
+    animation-duration: 2s;
+    animation-delay: 0.75s;
+    animation-fill-mode: forwards;
+    visibility: hidden;
+}
+@keyframes SoyAnimation{
+    0%{
+        transform: scale(0.1);
+        visibility:visible;
+    }
+    100%{
+        transform: scale(1) translate(-350px, 20px);
+        visibility:visible;
+    }
+}
+.Dev{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    max-width: 50%;
+    text-align: center;
+    color: #5e2129;
+    font-size: 230%;
+    margin-top: 25px;
+    animation-name: DevAnimation;
+    animation-duration: 2s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+    visibility: hidden;
+}
+@keyframes DevAnimation{
+    0%{
+        transform: scale(0.1);
+        visibility:visible;
+    }
+    100%{
+        transform: scale(1) translate(-350px, 60px);
+        visibility:visible;
+    }
+}

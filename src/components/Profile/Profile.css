@@ -1,0 +1,24 @@
+.Container{
+    width: 100%;
+    height: 89vh;
+    position: relative;
+}
+.perfil{
+    width: 100%;
+    height: 85%;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.perfil p{
+    font-family: 'Textos';
+    font-size: 30px;
+    text-align: left;
+    margin-left: 10%;
+}
+h1{
+    font-family: "FuenteOP";
+    font-size: 60px;
+    color: #5e2129;
+}

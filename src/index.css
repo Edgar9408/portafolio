@@ -6,7 +6,16 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+@font-face{
+  font-family: "FuenteOP";
+  src: local("FuenteOP"),
+  url(./fonts/RaizenAnthem.ttf) format("truetype")
+}
+@font-face{
+  font-family: "Textos";
+  src: local("Textos"),
+  url(./fonts/Rasputin.otf) format("Opentype")
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
